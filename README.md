@@ -1,5 +1,5 @@
-# Computer-Vision
-📷 Camera Calibration Using DLT and Levenberg–Marquardt Optimization
+
+#Camera Calibration Using DLT and Levenberg–Marquardt Optimization
 This project implements a two-step camera calibration pipeline that estimates both intrinsic and extrinsic parameters of a camera using:
 
 Direct Linear Transform (DLT) — a linear method to estimate the projection matrix.
